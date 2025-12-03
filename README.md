@@ -14,6 +14,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=C-Sakthi-Maheswari&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-Sakthi-Maheswari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sakthi_Maheswari_Kavin?theme=dark&font=Amethysta&ext=activity)
 
 ---
